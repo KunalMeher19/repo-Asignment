@@ -96,7 +96,7 @@ const Footer = () => {
           </p>
           <div className="mt-4 md:mt-0">
             <p className="text-gray-500 text-xs">
-              This is a fictional website created for demonstration purposes only.
+              This is a fictional website created for assignment purposes only.
             </p>
           </div>
         </div>
